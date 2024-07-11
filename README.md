@@ -16,7 +16,7 @@
 
 ## 🛠️ Installation
 
-💾 **Dwonload from my release**
+💾 **Dwonload archive from my release**
 
 💻 **Open the exe**
 ```sh
