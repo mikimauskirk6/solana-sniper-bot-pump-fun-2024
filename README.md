@@ -12,8 +12,7 @@
 # 📖 Introduction
 **We are pleased to announce that Solis is now ready to start beta, with the fastest speeds, most advanced filters and the cleanest user interface.**.<br>
 
-# ⚠️ Download
-[DOWNLOAD](https://solisbot.app)
+
 
 ## 🛠️ Installation
 
